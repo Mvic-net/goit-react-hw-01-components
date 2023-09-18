@@ -1,0 +1,13 @@
+.heading {
+  margin: auto;
+  margin-top: 0px;
+  margin-bottom: 0px;
+
+  text-align: center;
+  font-size: 25px;
+  padding: 10px;
+
+  background-color: bisque;
+
+  max-width: 480px;
+}
