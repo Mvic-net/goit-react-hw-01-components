@@ -13,7 +13,7 @@
 .statList {
   display: flex;
   flex-wrap: nowrap;
-  max-width: 480px;
+  max-width: 440px;
   margin: auto;
   background-color: rgb(196, 219, 165);
 }
