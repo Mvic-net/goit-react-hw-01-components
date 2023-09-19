@@ -1,5 +1,3 @@
-import css from './App.module.css';
-
 import { Heading } from 'components/Heading/Heading';
 import { User } from 'components/User/User';
 import userJson from './user.json';
